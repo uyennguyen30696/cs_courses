@@ -24,7 +24,7 @@ The standard weight assigned to each member of the 20-symbol amino acid alphabet
 # 1. Put the contents of the above file into a dictionary
 
 # Read the data from file into a list
-dataFile = open('aa.txt', 'r')
+dataFile = open('week_10/aa.txt', 'r')
 fileAsListOfLines = dataFile.read().splitlines()
 dataFile.close()
 
