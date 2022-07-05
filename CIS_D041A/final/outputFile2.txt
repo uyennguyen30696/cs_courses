@@ -1,0 +1,8 @@
+Here's your receipt 
+Item(s)            Qty.       Price             
+Bacon Cheese        4         22.8      
+Western Burger      2         11.9      
+----------------------------------------
+Total before tax              34.7
+Total tax                     3.12
+Total bill                    37.82

@@ -1,0 +1,7 @@
+Here's your receipt 
+Item(s)            Qty.       Price             
+De Anza Burger      2         10.5      
+----------------------------------------
+Total before tax              10.5
+Total tax                     0.94
+Total bill                    11.45

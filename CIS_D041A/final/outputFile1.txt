@@ -1,0 +1,9 @@
+Here's your receipt 
+Item(s)            Qty.       Price             
+De Anza Burger      6         31.5      
+Bacon Cheese        3         17.1      
+Western Burger      2         11.9      
+----------------------------------------
+Total before tax              60.5
+Total tax                     0.0
+Total bill                    60.5
